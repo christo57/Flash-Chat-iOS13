@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>446407991342-21o8io9h0um9q3vkhpd5ivrdmakc4mah.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.446407991342-21o8io9h0um9q3vkhpd5ivrdmakc4mah</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC4ofp3Isa2fexK0gNE8YlzzLm_looTTzs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>446407991342</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>christopher.klein.project.BMI-Calculator</string>
+	<key>PROJECT_ID</key>
+	<string>flash-chat-ios13-52ae7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flash-chat-ios13-52ae7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:446407991342:ios:47d81dfad7e439cb227fbf</string>
+	<key>DATABASE_URL</key>
+	<string>https://flash-chat-ios13-52ae7.firebaseio.com</string>
+</dict>
+</plist>
